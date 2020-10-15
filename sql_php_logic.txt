@@ -1,0 +1,11 @@
+password of mysql database in raspberry
+
+mysql -u root -p
+
+raspberrypi
+
+
+password of phpmyadmin -> ip address of raspberry pi 192.168.1.100/phpmyadmin 
+
+username : phpmyadmin
+password :  root
